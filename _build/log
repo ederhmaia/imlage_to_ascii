@@ -1,0 +1,6 @@
+# dune init proj image_to_ascii_dd
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/jdm/.cache/dune/db
+# Workspace root: /home/jdm/study/ocaml/image_to_ascii_dd
+# Auto-detected concurrency: 8

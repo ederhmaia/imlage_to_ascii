@@ -1,0 +1,4 @@
+(executable
+ (public_name image_to_ascii_dd)
+ (name main)
+ (libraries image_to_ascii_dd))
